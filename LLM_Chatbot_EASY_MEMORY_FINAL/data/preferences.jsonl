@@ -1,0 +1,2 @@
+{"question":"What is RAG?","chosen":"RAG retrieves documents and gives them to the LLM as context.","rejected":"RAG is only a database."}
+{"question":"What is attention?","chosen":"Attention helps the Transformer focus on relevant tokens.","rejected":"Attention is a type of storage."}

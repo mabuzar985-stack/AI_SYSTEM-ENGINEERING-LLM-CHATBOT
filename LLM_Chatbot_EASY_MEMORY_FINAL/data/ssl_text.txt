@@ -1,0 +1,5 @@
+A chatbot can use retrieval to find useful documents.
+Transformers use attention to understand relationships between tokens.
+RAG adds external knowledge to the prompt before generation.
+A vector database stores numerical representations of documents.
+Agents can decide when a tool or retrieval step is needed.

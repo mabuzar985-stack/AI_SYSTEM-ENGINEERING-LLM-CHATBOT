@@ -1,0 +1,1 @@
+Transformers use attention to process relationships between tokens. Self-attention uses queries, keys and values.

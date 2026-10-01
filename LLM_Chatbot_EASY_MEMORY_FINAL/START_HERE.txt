@@ -1,0 +1,14 @@
+1. Install Python 3.10+.
+2. Open this folder in Terminal.
+3. Create a virtual environment.
+4. Run: pip install -r requirements.txt
+5. Run: python chatbot.py
+6. Ask questions.
+7. Check memory.json after chatting.
+8. Run: pytest -q
+9. Upload the PROJECT FILES (not just the ZIP) to GitHub.
+10. Put the actual GitHub URL on page 1 of your PDF.
+11. Rename the final PDF to ABUZAR.pdf.
+12. Upload that PDF through the professor's Dropbox request link.
+
+See README.md, GITHUB_UPLOAD_GUIDE.md, and DROPBOX_UPLOAD_GUIDE.md.

@@ -1,0 +1,1 @@
+RAG retrieves relevant documents and adds them to the prompt before the language model generates the answer.

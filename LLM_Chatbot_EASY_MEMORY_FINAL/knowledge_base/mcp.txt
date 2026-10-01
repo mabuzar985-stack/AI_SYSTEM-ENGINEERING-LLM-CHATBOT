@@ -1,0 +1,1 @@
+MCP can provide a structured interface between an AI system and external tools or context.

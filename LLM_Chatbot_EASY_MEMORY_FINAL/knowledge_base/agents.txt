@@ -1,0 +1,1 @@
+An agent can decide whether it needs retrieval or a tool before generating an answer.
